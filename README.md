@@ -1,7 +1,5 @@
 # Vayetek-Test-Technique
 
----
-
 ## Question 1: Extraction des valeurs d'étalonnage
 
 ### Résultat
@@ -16,4 +14,4 @@ La somme totale des valeurs d'étalonnage est : **53386**
 ### Résultat
 Le meurtrier est **'Jeremy Bowers'**, mais le véritable méchant est **'Miranda Priestly'**.
 
-![Capture d'écran de l'exercice 2](q2.png)
+![Capture d'écran de l'exercice 2](q2.PNG)
