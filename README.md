@@ -7,7 +7,7 @@
 ### Résultat
 La somme totale des valeurs d'étalonnage est : **53386**
 
-![Capture d'écran de l'exercice 1](q1.png)
+![Capture d'écran de l'exercice 1](q1.PNG)
 
 ---
 
