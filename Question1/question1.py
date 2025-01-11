@@ -4,9 +4,10 @@ def calculer_somme_etalon(fichier):
     with open(fichier, 'r') as file:
         for i, ligne in enumerate(file, start=1):
             chiffres = re.findall(r'\d', ligne.strip())
-            premier = chiffres[0]
-            dernier = chiffres[-1]            
-            s +=  int(premier + dernier)
+            if(len(chiffres) > 0):
+                premier = chiffres[0]
+                dernier = chiffres[-1]            
+                s +=  int(premier + dernier)
     return s
 print("La somme totale des valeurs d'étalonnage est :", calculer_somme_etalon("document.txt"))
 

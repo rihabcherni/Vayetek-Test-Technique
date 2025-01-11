@@ -5,7 +5,7 @@
 ### Résultat
 La somme totale des valeurs d'étalonnage est : **53386**
 
-![Capture d'écran de l'exercice 1](q1.PNG)
+![Capture d'écran de l'exercice 1](Question1/q1.PNG)
 
 ---
 
@@ -14,4 +14,4 @@ La somme totale des valeurs d'étalonnage est : **53386**
 ### Résultat
 Le meurtrier est **'Jeremy Bowers'**, mais le véritable méchant est **'Miranda Priestly'**.
 
-![Capture d'écran de l'exercice 2](q2.PNG)
+![Capture d'écran de l'exercice 2](Question1/q2.PNG)
